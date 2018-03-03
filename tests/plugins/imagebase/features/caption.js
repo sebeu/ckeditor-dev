@@ -437,7 +437,7 @@
 			}
 		} ),
 
-		// #1646
+		// (#1646)
 		'test caption placeholder integration with basicstyles': createToggleTest( {
 			fixture: 'toggleOneEmpty',
 			initial: false,
