@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.10
+
+Fixed Issues:
+
+* [#1646](https://github.com/ckeditor/ckeditor-dev/issues/1646): Fixed: Caption placeholder for [Easy Image](https://ckeditor.com/cke4/addon/easyimage) plugin is not cleared after focusing.
+
 ## CKEditor 4.9
 
 New Features:
