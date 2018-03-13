@@ -5,7 +5,8 @@
 
 Fixed Issues:
 
-* [#1776](https://github.com/ckeditor/ckeditor-dev/issues/1776): Image base empty caption placeholder is not hidden when blurred.
+* [#1776](https://github.com/ckeditor/ckeditor-dev/issues/1776): Image Base empty caption placeholder is not hidden when blurred.
+* [#1592](https://github.com/ckeditor/ckeditor-dev/issues/1592): Image Base caption is not visible after paste.
 
 ## CKEditor 4.9
 
