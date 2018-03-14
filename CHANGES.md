@@ -1,6 +1,12 @@
 ﻿CKEditor 4 Changelog
 ====================
 
+## CKEditor 4.9.1
+
+Fixed Issues:
+
+* [#1776](https://github.com/ckeditor/ckeditor-dev/issues/1776): Image base empty caption placeholder is not hidden when blurred.
+
 ## CKEditor 4.9
 
 New Features:
