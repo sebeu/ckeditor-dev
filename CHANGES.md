@@ -9,6 +9,10 @@ Fixed Issues:
 * [#1034](https://github.com/ckeditor/ckeditor-dev/issues/1034): Fixed: JAWS leaves forms mode after pressing <kbd>Enter</kbd> key in an inline CKEditor instance.
 * [#1748](https://github.com/ckeditor/ckeditor-dev/pull/1748): Fixed: Added missing [`CKEDITOR.dialog.definition.onHide`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_dialog_definition.html#property-onHide) API documentation. Thanks to [sunnyone](https://github.com/sunnyone)!
 
+API Changes:
+
+* [#1582](https://github.com/ckeditor/ckeditor-dev/issues/1582): The [`CKEDITOR.editor.addCommand`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_editor.html#method-addCommand) can accept [`CKEDITOR.command`](https://docs.ckeditor.com/ckeditor4/latest/api/CKEDITOR_command.html) instance as parameter.
+
 ## CKEditor 4.9
 
 New Features:
